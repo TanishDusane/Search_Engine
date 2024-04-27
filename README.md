@@ -1,6 +1,5 @@
 <h1 align="middle">Search Engine</h1> 
 
-## Overview
 <p> <img src="https://freefrontend.com/assets/img/css-search-boxes/CSS-Increasing-Input.gif" alt="Image Alt Text" align="right" width="300" height="135" style="border-radius: 20px";> </p>
 <p style="text-align: justify;">
     Welcome to the Search Engine! This tool, developed in Java, allows you to search for details related to various programming languages. Whether you're a student looking for course information or a developer exploring new technologies, this search engine has you covered. Additionally, the tool provides a history feature, enabling you to review your past searches easily.
